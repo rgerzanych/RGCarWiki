@@ -2,7 +2,7 @@
 
 namespace RGCarWiki.Shared
 {
-    public class Class1
+    public class Constants
     {
     }
 }
